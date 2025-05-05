@@ -1,0 +1,4 @@
+Model,MAE ($),RMSE ($),R² Score,Selected
+Linear Regression,233660.42,400869.24,0.4954,No
+Decision Tree (Tuned),276701.55,468127.76,0.3119,No
+Random Forest (Tuned),225166.54,376057.71,0.5559,Yes
